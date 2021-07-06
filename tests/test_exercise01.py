@@ -1,7 +1,7 @@
-import pytest
 
-from exercise01 import Greetings
+from exercises import exercise01
+import pytest
 
 
 def test_hello():
-    assert Greetings.hello('Suraj') == f'Hello, {"Suraj"}, nice to meet you!'
+    assert exercise01.hello('Suraj') == f'Hello Suraj, nice to meet you!'
