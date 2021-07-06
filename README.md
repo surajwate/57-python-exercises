@@ -2,6 +2,7 @@
 
 Exercises from the book - Exercises for Programmers 57 Challenges to Develop Your Coding Skills.
 
-- Exercise 1 - Saying Hello
+- Exercise 01 - Saying Hello
+- Exercise 02 - Counting the Number of Characters
 
 
