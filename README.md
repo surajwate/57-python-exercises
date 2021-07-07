@@ -4,5 +4,5 @@ Exercises from the book - Exercises for Programmers 57 Challenges to Develop You
 
 - Exercise 01 - Saying Hello
 - Exercise 02 - Counting the Number of Characters
-
+- Exercise 03 - Printing Quotes
 
