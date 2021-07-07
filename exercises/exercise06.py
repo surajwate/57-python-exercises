@@ -1,5 +1,6 @@
 from datetime import date
 
+
 def retirement_calculator(current_age, retirement_age):
     current_year = date.today().year
     retirement_years = retirement_age - current_age

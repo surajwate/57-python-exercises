@@ -1,6 +1,4 @@
-
 from exercises import exercise01
-import pytest
 
 
 def test_hello():
