@@ -7,3 +7,4 @@ Exercises from the book - Exercises for Programmers 57 Challenges to Develop You
 - Exercise 03 - Printing Quotes
 - Exercise 04 - Mad Lib
 - Exercise 05 - Simple Math
+- Exercise 06 - Retirement Calculator
