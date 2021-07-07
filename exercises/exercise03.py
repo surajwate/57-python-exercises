@@ -1,5 +1,5 @@
 def quote(quote_said, author):
-    return f'{author} says, "{quote_said}"'
+    return author + ' says, "' + quote_said + '"'
 
 
 if __name__ == '__main__':
