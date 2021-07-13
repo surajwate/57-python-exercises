@@ -16,3 +16,4 @@ Exercises from the book - Exercises for Programmers 57 Challenges to Develop You
 - Exercise 07 - [Area of a Rectangle Room](exercises/exercise07.py)
 - Exercise 08 - [Pizza Party](exercises/exercise08.py)
 - Exercise 09 - [Paint Calculator](exercises/exercise09.py)
+- Exercise 10 - [Self-Checkout](exercises/exercise10.py)
