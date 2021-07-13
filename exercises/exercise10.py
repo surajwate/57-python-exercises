@@ -19,11 +19,11 @@ def self_checkout(quantity_list, price_list)->str:
 Tax: ${tax}
 Total: ${total}"""
 
-def calculate_total(total_items):
+def display_total(total_items):
     a, b = get_details(total_items)
     return self_checkout(a, b)
 
 
 if __name__ == '__main__':
     total_items = int(input("How many items do you have? "))
-    print(calculate_total(total_items))
+    print(display_total(total_items))
