@@ -17,3 +17,10 @@ Exercises from the book - Exercises for Programmers 57 Challenges to Develop You
 - Exercise 08 - [Pizza Party](exercises/exercise08.py)
 - Exercise 09 - [Paint Calculator](exercises/exercise09.py)
 - Exercise 10 - [Self-Checkout](exercises/exercise10.py)
+- Exercise 11 - [Currency Conversion](exercises/exercise11.py)
+- Exercise 12 - [Computing Simple Interest](exercises/exercise12.py)
+- Exercise 13 - [Determining Compound Interest](exercises/exercise13.py)
+
+## Making Decisions
+
+- Exercise 14 - [Tax Calculator](exercises/exercise14.py)
