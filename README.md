@@ -29,7 +29,7 @@ Exercises from the book - Exercises for Programmers 57 Challenges to Develop You
 | Exercise 18  | [Test18](tests/test_exercise18.py)  | [Temperature Converter](exercises/exercise18.py)  |
 | Exercise 19  | [Test19](tests/test_exercise19.py)  | [BMI Calculator](exercises/exercise19.py)  |
 |   |   |   |
-|   |   |   |
+| Exercise 21  | [Test21](tests/test_exercise21.py)  | [Numbers to Names](exercises/exercise21.py)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
