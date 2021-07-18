@@ -14,27 +14,27 @@ def blood_alcohol_calculator(alcohol_consumed, weight_in_pounds, gender, last_dr
 def get_data():
     while True:
         try:
-            alcohol_consumed = float(input("Total alcohol consumed : "))
+            alcohol_consumed = float(input("\nTotal alcohol consumed : "))
             break
         except :
-            print("\nPlease enter the value in float or integer.\n")
+            print("\nPlease enter the value in float or integer.")
 
     while True:
         try:
-            weight_in_pounds = float(input("Body weight in pounds : "))
+            weight_in_pounds = float(input("\nBody weight in pounds : "))
             break
         except :
-            print("\nPlease enter the value in float or integer.\n")
+            print("\nPlease enter the value in float or integer.")
 
     while True:
         try:
-            last_drink_hours = float(input("Number of hours since the last drink : "))
+            last_drink_hours = float(input("\nNumber of hours since the last drink : "))
             break
         except :
-            print("\nPlease enter the value in float or integer.\n")
+            print("\nPlease enter the value in float or integer.")
     return (alcohol_consumed, weight_in_pounds, last_drink_hours)
 
 if __name__ == '__main__':
-    gender = input("Enter your gender (M/F) : ")
+    gender = input("\nEnter your gender (M/F) : ")
     alcohol_consumed, weight_in_pounds, last_drink_hours = get_data()
     print("It is " + blood_alcohol_calculator(alcohol_consumed, weight_in_pounds, gender, last_drink_hours) + " for you to drive.")
