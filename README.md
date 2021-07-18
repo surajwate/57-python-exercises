@@ -25,7 +25,7 @@ Exercises from the book - Exercises for Programmers 57 Challenges to Develop You
 | Exercise 14  | [Test14](tests/test_exercise14.py)  | [Tax Calculator](exercises/exercise14.py)  |
 | Exercise 15  | [Test15](tests/test_exercise15.py)  | [Password Validation](exercises/exercise15.py)  |
 | Exercise 16  | [Test16](tests/test_exercise16.py)  | [Legal Driving Age](exercises/exercise16.py)  |
-|   |   |   |
+| Exercise 17  | [Test17](tests/test_exercise17.py)  | [Blood Alcohol Calculator](exercises/exercise17.py)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
