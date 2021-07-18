@@ -23,7 +23,7 @@ Exercises from the book - Exercises for Programmers 57 Challenges to Develop You
 | Exercise 13  | [Test13](tests/test_exercise13.py)  | [Determining Compound Interest](exercises/exercise13.py)  |
 ||   **Making Decisions**   ||
 | Exercise 14  | [Test14](tests/test_exercise14.py)  | [Tax Calculator](exercises/exercise14.py)  |
-|   |   |   |
+| Exercise 15  | [Test15](tests/test_exercise15.py)  | [Password Validation](exercises/exercise15.py)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
